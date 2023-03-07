@@ -4,6 +4,10 @@
   "main": "index.js",
   "private": true,
   "license": "MIT",
+  "author": {
+    "email": "lnfernando@gmail.com",
+    "name": "Fernando Lima"
+  },
   "scripts": {
     "run:server": "yarn workspace server run start"
   },
