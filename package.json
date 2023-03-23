@@ -9,6 +9,7 @@
     "name": "Fernando Lima"
   },
   "scripts": {
+    "run:client": "yarn workspace client run start",
     "run:server": "yarn workspace server run start"
   },
   "workspaces": {
